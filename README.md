@@ -1,9 +1,9 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- Cristian Betancourth Hoyos -->
+**Nombre:**  Cristian Betancourth Hoyos
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- Crishoyos3 -->
+**Usuario de GitHub:** Crishoyos3
 
 ## Sobre mí
 
